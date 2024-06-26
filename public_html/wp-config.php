@@ -25,10 +25,10 @@
 define( 'DB_NAME', 'u969791460_SNpaj' );
 
 /** Database username */
-define( 'DB_USER', 'u969791460_LIIX0' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'arex9bWDea' );
+define( 'DB_PASSWORD', 'u8VxswYsBEqg' );
 
 /** Database hostname */
 define( 'DB_HOST', '127.0.0.1' );
