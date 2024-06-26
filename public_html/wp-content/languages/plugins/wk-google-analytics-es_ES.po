@@ -1,0 +1,112 @@
+# Translation of Plugins - Google Analytics and Google Tag Manager - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Google Analytics and Google Tag Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-28 11:07:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Google Analytics and Google Tag Manager - Stable (latest release)\n"
+
+#: lib/Settings.php:83
+msgid "Google Analytics 4 Stream-ID"
+msgstr "Identificación de Google Analytics 4 Stream"
+
+#: lib/Plugin.php:108
+msgid "WEBKINDER Google Analytics"
+msgstr "WEBKINDER Google Analytics"
+
+#. Author of the plugin
+msgid "WEBKINDER"
+msgstr "WEBKINDER"
+
+#: lib/Settings.php:156
+msgid "Enter your Google Analytics tracking ID below. Should you use Google Tag Manager to deploy Google Analytics, enter your GTM Container ID in the respective field and tick the box “Use Google Tag Manager instead”."
+msgstr "Introduce a continuación tu identificación de seguimiento de Google Analytics. Si utilizas Google Tag Manager para desplegar Google Analytics, introduce tu identificación de contenedor GTM en el campo correspondiente y marca la casilla «Utilizar Google Tag Manager en su lugar»."
+
+#: lib/Settings.php:97
+msgid "IP Anonymization"
+msgstr "Anonimización IP"
+
+#: lib/Loader.php:161
+msgid "As long as you do not activate this option while you are using the incognito mode of your browser, a cookie will be stored on your device. This cookie will have to be renewed after one year."
+msgstr "Mientras no actives esta opción mientras estés utilizando el modo incógnito de tu navegador, se almacenará una cookie en tu dispositivo. Esta cookie deberá renovarse al cabo de un año."
+
+#. Description of the plugin
+msgid "Deploy Google Analytics on your website without having to edit code and without tracking your own visits. You can exclude any logged in user from this and enable tracking solely for them."
+msgstr "Despliega Google Analytics en tu web sin tener que editar código y sin realizar el seguimiento de tus propias visitas. Puedes excluir a cualquier usuario que se haya conectado y activar el seguimiento solo para él."
+
+#. Plugin Name of the plugin
+msgid "Google Analytics and Google Tag Manager by WEBKINDER"
+msgstr "Google Analytics y Google Tag Manager de WEBKINDER"
+
+#. Author URI of the plugin
+msgid "https://www.webkinder.ch/"
+msgstr "https://www.webkinder.ch/"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wk-google-analytics/"
+msgstr "https://wordpress.org/plugins/wk-google-analytics/"
+
+#: content/privacy_policy.php:11
+msgid "Opt-out for Google Analytics"
+msgstr "Exclusión de Google Analytics"
+
+#: content/privacy_policy.php:9
+msgid "Incidentally, the personal data will be anonymized or deleted after a lapse of 26 months."
+msgstr "Por cierto, los datos personales serán anonimizados o eliminados tras un plazo de 26 meses."
+
+#: content/privacy_policy.php:8
+msgid "For more information about Google's data usage, settings and opt-out options, please visit Google's websites: <a href=\"https://www.google.com/intl/en/policies/privacy/partners\">https://www.google.com/intl/en/policies/privacy/partners</a> (\"Google's use of your data when you use websites or apps of our partners\"), <a href=\"https://policies.google.com/technologies/ads\">https://policies.google.com/technologies/ads</a> (\"Advertising use of data\"), <a href=\"https://adssettings.google.com/authenticated\">https://adssettings.google.com/authenticated</a> (\"Managing information Google uses to show you ads\")."
+msgstr "Para obtener más información acerca del uso de datos por parte de Google, los ajustes y las opciones de exclusión, visita las webs de Google: <a href=\"https://www.google.com/intl/en/policies/privacy/partners\">https://www.google.com/intl/en/policies/privacy/partners</a> («Uso que Google hace de tus datos cuando utilizas webs o aplicaciones de nuestros socios»), <a href=\"https://policies.google.com/technologies/ads\">https://policies.google.com/technologies/ads</a> («Uso publicitario de los datos»), <a href=\"https://adssettings.google.com/authenticated\">https://adssettings.google.com/authenticated</a> («Gestión de la información que Google utiliza para mostrarte anuncios»)."
+
+#: content/privacy_policy.php:4
+msgid "Google is certified under the Privacy Shield Agreement, which provides a guarantee to comply with European privacy legislation (<a href=\"https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active\">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active</a>)."
+msgstr "Google está certificado por el Acuerdo del Escudo de Privacidad, que garantiza el cumplimiento de la legislación europea sobre privacidad (<a href=\"https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Activo\">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Activo</a>)."
+
+#: lib/Settings.php:139
+msgid "Google Tag Manager ID"
+msgstr "ID de Google Tag Manager"
+
+#: lib/Settings.php:125
+msgid "Use Google Tag Manager instead"
+msgstr "Utiliza Google Tag Manager en su lugar"
+
+#: lib/Settings.php:111
+msgid "Track logged in users"
+msgstr "Sigue a los usuarios conectados"
+
+#: content/privacy_policy.php:1
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: lib/Settings.php:41
+msgid "Test your tracking code now!"
+msgstr "¡Prueba tu código de seguimiento ahora!"
+
+#: lib/Plugin.php:71
+msgid "Donate to this plugin"
+msgstr "Donar a este plugin"
+
+#: lib/Loader.php:160
+msgid "Do not track any visits from this device"
+msgstr "No rastrear ninguna visita desde este dispositivo"
+
+#: content/privacy_policy.php:7
+msgid "The IP address submitted by the user's browser will not be merged with other data provided by Google. Users can prevent the storage of cookies by setting their browser software accordingly; Users may also prevent the collection by Google of the data generated by the cookie and related to their use of the online offer as well as the processing of this data by Google by downloading and installing the browser plug-in available under the following link: <a href=\"https://tools.google.com/dlpage/gaoptout?hl=en\">https://tools.google.com/dlpage/gaoptout?hl=en</a>."
+msgstr "La dirección IP enviada por el navegador del usuario no se fusionará con otros datos proporcionados por Google. Los usuarios pueden impedir el almacenamiento de cookies configurando el software de su navegador. En consecuencia, los usuarios también pueden impedir la recopilación por parte de Google de los datos generados por la cookie y relacionados con su uso de la oferta en línea, así como el procesamiento de estos datos por parte de Google, descargando e instalando el plugin del navegador disponible en el siguiente enlace: <a href=\"https://tools.google.com/dlpage/gaoptout?hl=en\">https://tools.google.com/dlpage/gaoptout?hl=en</a>."
+
+#: content/privacy_policy.php:6
+msgid "We only use Google Analytics with activated IP anonymization. This means that the IP address of the users will be shortened by Google within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be sent to a Google server in the USA and shortened there."
+msgstr "Solo utilizamos Google Analytics con la anonimización de IP activada. Esto significa que la dirección IP de los usuarios será acortada por Google dentro de los estados miembros de la Unión Europea o en otros estados contratantes del Acuerdo sobre el Espacio Económico Europeo. Solo en casos excepcionales se enviará la dirección IP completa a un servidor de Google en EE.UU. y se acortará allí."
+
+#: content/privacy_policy.php:5
+msgid "Google will use this information on our behalf to evaluate the use of our online offer by users to compile reports on the activities within this online offer and to provide us with further services related to the use of this online offer and the internet usage. In this case, pseudonymous usage profiles of the users can be created from the processed data."
+msgstr "Google utilizará esta información en nuestro nombre para evaluar el uso de nuestra oferta online por parte de los usuarios para recopilar informes sobre las actividades dentro de esta oferta online y para proporcionarnos otros servicios relacionados con el uso de esta oferta en línea y el uso de Internet. En este caso, se pueden crear perfiles de uso seudónimos de los usuarios a partir de los datos procesados."
+
+#: content/privacy_policy.php:3
+msgid "Based on our legitimate interests (i.e., interest in the analysis, optimization, and economic operation of our online offer within the meaning of Art. 6 (1) lit. DSGVO), we use Google Analytics, a web analytics service provided by Google LLC (\"Google\"). Google uses cookies. The information generated by the cookie about the use of the online offer by the users are usually transmitted to a Google server in the USA and stored there."
+msgstr "Basándonos en nuestros intereses legítimos (es decir, el interés en el análisis, la optimización y el funcionamiento económico de nuestra oferta en línea en el sentido del Art. 6 (1) lit. DSGVO), utilizamos Google Analytics, un servicio analítico de web prestado por Google LLC (\"Google\"). Google utiliza cookies. La información generada por la cookie acerca del uso de la oferta online por parte de los usuarios se transmite normalmente a un servidor de Google en EE.UU. y se almacena allí."

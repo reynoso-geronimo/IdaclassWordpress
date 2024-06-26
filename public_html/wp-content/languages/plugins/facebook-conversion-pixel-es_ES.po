@@ -1,0 +1,188 @@
+# Translation of Plugins - Pixel Cat &#8211; Conversion Pixel Manager - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Pixel Cat &#8211; Conversion Pixel Manager - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-14 19:18:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Pixel Cat &#8211; Conversion Pixel Manager - Development (trunk)\n"
+
+#: includes/functions.php:683
+msgid "Confirm Delete"
+msgstr "Confirmar eliminación"
+
+#: includes/functions.php:682
+msgid "Delete"
+msgstr "Eliminar"
+
+#: includes/editor/editor.php:533 includes/editor/editor.php:585
+msgid "Paused - Click to Activate"
+msgstr "En pausa - Haz clic para activar"
+
+#: includes/editor/editor.php:499 includes/editor/editor.php:556
+msgid "Status"
+msgstr "Estado"
+
+#: includes/editor/editor.php:534 includes/editor/editor.php:586
+msgid "Active - Click to Pause"
+msgstr "Activo - haz clic para pausar"
+
+#: includes/editor/editor.php:217
+msgid "%"
+msgstr "%"
+
+#: facebook-conversion-pixel.php:120
+msgid "Support"
+msgstr "Soporte"
+
+#. Author URI of the plugin
+msgid "https://fatcatapps.com/"
+msgstr "https://fatcatapps.com/"
+
+#. Author of the plugin
+msgid "Fatcat Apps"
+msgstr "Apps Fatcat"
+
+#: includes/functions.php:811 includes/notices/notices.php:187
+#: includes/notices/notices.php:188
+msgid "Upgrade to Premium"
+msgstr "Mejora a Premium"
+
+#: includes/editor/editor.php:906 includes/editor/editor.php:1018
+msgid "Feed URL"
+msgstr "URL del Feed"
+
+#: includes/editor/editor.php:722 includes/editor/editor.php:745
+#: includes/editor/editor.php:758 includes/editor/editor.php:781
+msgid "Learn More..."
+msgstr "Aprender más.."
+
+#: includes/editor/editor.php:313
+msgid "Value"
+msgstr "Valor"
+
+#: includes/editor/editor.php:312
+msgid "Parameter"
+msgstr "Parámetro"
+
+#: includes/editor/editor.php:164 includes/editor/editor.php:367
+#: includes/functions.php:684
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/editor/editor.php:221 includes/editor/editor.php:917
+msgid "(hide)"
+msgstr "(ocultar)"
+
+#: includes/editor/editor.php:221 includes/editor/editor.php:917
+msgid "(show)"
+msgstr "(mostrar)"
+
+#: includes/editor/editor.php:220
+msgid "Parameters"
+msgstr "Parámetros"
+
+#: includes/editor/editor.php:208
+msgid "Event Name"
+msgstr "Nombre del evento"
+
+#: includes/editor/editor.php:203
+msgid "Custom Event"
+msgstr "Evento personalizado"
+
+#: includes/editor/editor.php:197
+msgid "Standard Events"
+msgstr "Eventos estándar"
+
+#: includes/editor/editor.php:166 includes/editor/editor.php:194
+#: includes/editor/editor.php:558
+msgid "Event"
+msgstr "Evento"
+
+#: includes/editor/editor.php:188
+msgid "Pages"
+msgstr "Páginas"
+
+#: includes/editor/editor.php:172 includes/editor/editor.php:559
+msgid "Trigger"
+msgstr "Activador"
+
+#: includes/functions.php:753
+msgid "Blog Page"
+msgstr "Página Blog"
+
+#: includes/functions.php:752
+msgid "Front Page"
+msgstr "Página inicio"
+
+#: includes/functions.php:751
+msgid "All Pages"
+msgstr "Todas las páginas"
+
+#: includes/editor/editor.php:680
+msgid "Exclude Users"
+msgstr "Excluir usuarios"
+
+#: includes/editor/editor.php:855
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/editor/editor.php:550
+msgid "Events"
+msgstr "Eventos"
+
+#: includes/editor/editor.php:491
+msgid "Setup Instructions"
+msgstr "Instrucciones de configuración"
+
+#: includes/editor/editor.php:10 includes/editor/editor.php:11
+msgid "Pixel Cat"
+msgstr "Pixel Cat"
+
+#: includes/notices/notices.php:129
+msgid "Send Feedback"
+msgstr "Enviar comentarios"
+
+#: includes/notices/notices.php:128
+msgid "Skip"
+msgstr "Saltar"
+
+#: facebook-conversion-pixel.php:178
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: includes/functions.php:568
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: includes/editor/editor.php:601
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: facebook-conversion-pixel.php:155
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/editor/editor.php:932
+msgid "Click here"
+msgstr "Haz clic aquí"
+
+#: facebook-conversion-pixel.php:152
+msgid "Pixel Cat: "
+msgstr "Categoría del píxel: "
+
+#: facebook-conversion-pixel.php:119
+msgid "Configure Pixel"
+msgstr "Configurar píxel"
+
+#: includes/editor/editor.php:233 includes/editor/editor.php:471
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/editor/editor.php:97
+msgid "Settings"
+msgstr "Configurar"

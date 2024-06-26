@@ -1,0 +1,253 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YayExtra Lite - WooCommerce Extra Product Options\n"
+"POT-Creation-Date: 2023-04-13 15:52+0700\n"
+"PO-Revision-Date: 2023-04-13 15:52+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: yayextra.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/Classes/ProductPage.php:206 includes/Classes/ProductPage.php:211
+#: includes/Classes/ProductPage.php:218 includes/Classes/ProductPage.php:224
+#: includes/Classes/ProductPage.php:256
+msgid " is a required field."
+msgstr ""
+
+#: includes/Classes/ProductPage.php:264 includes/Classes/ProductPage.php:290
+msgid " is invalid email format"
+msgstr ""
+
+#: includes/Classes/ProductPage.php:270 includes/Classes/ProductPage.php:296
+msgid " is invalid url format"
+msgstr ""
+
+#: includes/Classes/ProductPage.php:276 includes/Classes/ProductPage.php:302
+msgid " is invalid string format"
+msgstr ""
+
+#: includes/Classes/ProductPage.php:330 includes/Classes/ProductPage.php:380
+msgid "View cart"
+msgstr ""
+
+#. translators: &quot;%1$s&quot;: option value.
+#: includes/Classes/ProductPage.php:333 includes/Classes/ProductPage.php:383
+#, php-format
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart &mdash; we have "
+"%2$d in stock and you already have %3$d in your cart."
+msgstr ""
+
+#. translators: &quot;%1$s&quot;: option value.
+#: includes/Classes/ProductPage.php:351 includes/Classes/ProductPage.php:400
+#, php-format
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart because there is "
+"not enough stock ( %2$d remaining ) . "
+msgstr ""
+
+#: includes/Classes/ProductPage.php:527 includes/Classes/ProductPage.php:647
+msgid "Upload File successful"
+msgstr ""
+
+#: includes/Classes/ProductPage.php:800 includes/Classes/ProductPage.php:1488
+msgid "Edit option field"
+msgstr ""
+
+#. translators: %1$s: option value.
+#: includes/Classes/ProductPage.php:1025
+#, php-format
+msgid ""
+"Sorry, we do not have enough \"%1$s\" in stock to fulfill your order (%2$s "
+"available). We apologize for any inconvenience caused."
+msgstr ""
+
+#: includes/Classes/ProductPage.php:1362
+msgid "Update cart"
+msgstr ""
+
+#. translators: %s: product title
+#: includes/Classes/ProductPage.php:1938
+#, php-format
+msgctxt "Item name in quotes"
+msgid "&ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s: product quantity
+#: includes/Classes/ProductPage.php:1940
+#, php-format
+msgid "%s has been updated."
+msgid_plural "%s have been updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Helper/Utils.php:23 includes/Init/Ajax.php:91
+#: includes/Init/Ajax.php:124 includes/Init/Ajax.php:193
+#: includes/Init/Ajax.php:220 includes/Init/Ajax.php:301
+#: includes/Init/Ajax.php:325 includes/Init/Ajax.php:348
+#: includes/Init/Ajax.php:376 includes/Init/Ajax.php:446
+#: includes/Init/Ajax.php:486 includes/Init/Ajax.php:510
+#: includes/Init/Ajax.php:660
+msgid "Nonce is invalid"
+msgstr ""
+
+#: includes/I18n.php:35
+msgid "Choose color"
+msgstr ""
+
+#: includes/I18n.php:36
+msgid "Oops! Something went wrong!"
+msgstr ""
+
+#: includes/I18n.php:37
+msgid "An option value have to set as default."
+msgstr ""
+
+#: includes/I18n.php:38 includes/I18n.php:45
+msgid "Upload Image"
+msgstr ""
+
+#: includes/I18n.php:39 includes/I18n.php:46
+msgid "Save changes"
+msgstr ""
+
+#: includes/I18n.php:42
+msgid "Show option sets for roles"
+msgstr ""
+
+#: includes/I18n.php:43
+msgid ""
+"Choose specific roles to show option sets. If have no role, option sets are "
+"always shown."
+msgstr ""
+
+#: includes/I18n.php:44
+msgid "Hide option sets for roles"
+msgstr ""
+
+#: includes/Init/Ajax.php:200
+msgid "Duplicate option set failed."
+msgstr ""
+
+#: includes/Init/Ajax.php:228
+msgid "Import at least 1 JSON file"
+msgstr ""
+
+#: includes/Init/Ajax.php:549 includes/Init/Ajax.php:606
+msgid "Upload Image successful"
+msgstr ""
+
+#: includes/Init/Ajax.php:616
+msgid "Data is empty"
+msgstr ""
+
+#: includes/Init/CustomPostType.php:25 includes/Init/CustomPostType.php:26
+msgid "Option Set"
+msgstr ""
+
+#: includes/Init/CustomPostType.php:27
+msgid "Add New Option Set"
+msgstr ""
+
+#: includes/Init/CustomPostType.php:28
+msgid "Add a new Option Set"
+msgstr ""
+
+#: includes/Init/CustomPostType.php:29
+msgid "Edit Option Set"
+msgstr ""
+
+#: includes/Init/CustomPostType.php:30
+msgid "New Option Set"
+msgstr ""
+
+#: includes/Init/CustomPostType.php:31
+msgid "View Option Set"
+msgstr ""
+
+#: includes/Init/CustomPostType.php:32
+msgid "Search Option Set"
+msgstr ""
+
+#: includes/Init/CustomPostType.php:33
+msgid "No Option Set found"
+msgstr ""
+
+#: includes/Init/CustomPostType.php:34
+msgid "No Option Set currently trashed"
+msgstr ""
+
+#: includes/Init/Settings.php:65 includes/Init/Settings.php:77
+msgid "YayExtra"
+msgstr ""
+
+#: includes/Init/Settings.php:77
+msgid "Settings"
+msgstr ""
+
+#: includes/Init/Settings.php:79
+msgid "Go Pro"
+msgstr ""
+
+#: includes/Templates/dropdown_field.php:41
+msgid "Select your option"
+msgstr ""
+
+#: includes/Templates/file_upload_field.php:28
+#, php-format
+msgid "( max file size % s )"
+msgstr ""
+
+#: includes/UpdateVersion.php:14
+msgid ""
+"It looks like you have another YayExtra version installed, please delete it "
+"before activating this new version. All current settings and data are still "
+"preserved."
+msgstr ""
+
+#: includes/UpdateVersion.php:15
+msgid "Read more details."
+msgstr ""
+
+#. translators: %s: search WooCommerce plugin link
+#: yayextra.php:80
+#, php-format
+msgid ""
+"is enabled but not effective. It requires %1$sWooCommerce%2$s in order to "
+"work."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "YayExtra Lite - WooCommerce Extra Product Options"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://yaycommerce.com/yayextra-woocommerce-extra-product-options"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Offer extra options like personal engraving, print-on-demand items, gifts, "
+"custom canvas prints, and personalized products."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YayCommerce"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yaycommerce.com"
+msgstr ""

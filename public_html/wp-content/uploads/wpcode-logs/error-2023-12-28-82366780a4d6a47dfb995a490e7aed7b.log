@@ -1,0 +1,21 @@
+2023-12-28T01:20:36+00:00 Division by zero
+2023-12-28T01:20:36+00:00 El fragmento "Opciones de financiación de cursos" (#12501) se ha desactivado automáticamente debido a un error fatal.
+2023-12-28T01:21:21+00:00 Division by zero
+2023-12-28T01:21:21+00:00 El fragmento "Opciones de financiación de cursos" (#12501) se ha desactivado automáticamente debido a un error fatal.
+2023-12-28T01:23:52+00:00 Division by zero
+2023-12-28T01:23:52+00:00 El fragmento "Opciones de financiación de cursos" (#12501) se ha desactivado automáticamente debido a un error fatal.
+2023-12-28T01:49:43+00:00 syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+2023-12-28T01:49:43+00:00 El fragmento "Opciones de financiación de cursos" (#12501) se ha desactivado automáticamente debido a un error fatal.
+2023-12-28T01:50:05+00:00 syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+2023-12-28T01:51:58+00:00 syntax error, unexpected ';', expecting ')'
+2023-12-28T02:03:59+00:00 Cannot redeclare fm_get_post_id_by_meta_key_and_value() (previously declared in /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/wpcode-premium/includes/class-wpcode-snippet-execute.php(277) : eval()'d code:1)
+2023-12-28T02:03:59+00:00 El fragmento "Opciones de financiación de cursos" (#12501) se ha desactivado automáticamente debido a un error fatal.
+2023-12-28T02:10:05+00:00 Cannot redeclare fm_get_post_id_by_meta_key_and_value() (previously declared in /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/wpcode-premium/includes/class-wpcode-snippet-execute.php(277) : eval()'d code:1)
+2023-12-28T02:16:13+00:00 Uncaught Error: Cannot use object of type WC_Product_Simple as array in /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/wpcode-premium/includes/class-wpcode-snippet-execute.php(277) : eval()'d code:66
+Stack trace:
+#0 /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/wpcode-premium/includes/class-wpcode-snippet-execute.php(277) : eval()'d code(86): fm_get_cart_content_as_text()
+#1 /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/contact-form-7/includes/form-tags-manager.php(551): fm_cf7_cart_content_handler(Object(WPCF7_FormTag))
+#2 /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/contact-form-7/includes/form-tags-manager.php(460): WPCF7_FormTagsManager->scan_callback(Array, true)
+#3 [internal function]: WPCF7_FormTagsManager->replace_callback(Array)
+#4 /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/contact-form-7/includes/form-tags-manager.php(356): preg_replace_callback('/(
+2023-12-28T02:16:13+00:00 El fragmento "Opciones de financiación de cursos" (#12501) se ha desactivado automáticamente debido a un error fatal.

@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Instructor were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://idaclassacademy.com
+Data file = /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/uploads/2023/04/demo-content-import-file_2023-04-22__17-03-38.xml
+Widget file = /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/uploads/2023/04/demo-widgets-import-file_2023-04-22__17-03-38.json
+Customizer
+
+---Importing widgets---
+Barra lateral : 
+
+Búsqueda - No Title - Imported
+Entradas recientes - No Title - Imported
+Comentarios recientes - No Title - Imported
+Categorías - No Title - Imported
+
+Widget 1 de pie de página : 
+
+Texto - No Title - Imported
+Texto - No Title - Imported
+
+Widget 2 de pie de página : 
+
+Menú de navegación - Quick Links - Imported
+
+Widget 3 de pie de página : 
+
+Menú de navegación - Resources - Imported
+
+Widget 4 de pie de página : 
+
+Menú de navegación - Support - Imported
+
+Medios sociales de pie de página : 
+
+HTML personalizado - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tutormate_after_import---
+

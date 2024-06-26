@@ -1,0 +1,8 @@
+2023-12-27T21:01:05+00:00 Uncaught Error: Call to a member function get_cart() on null in /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/wpcode-premium/includes/class-wpcode-snippet-execute.php(277) : eval()'d code:3
+Stack trace:
+#0 /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/wpcode-premium/includes/class-wpcode-snippet-execute.php(277) : eval()'d code(21): get_cart_content_as_text()
+#1 /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/contact-form-7/includes/form-tags-manager.php(551): cf7_cart_content_handler(Object(WPCF7_FormTag))
+#2 /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/contact-form-7/includes/form-tags-manager.php(460): WPCF7_FormTagsManager->scan_callback(Array, true)
+#3 [internal function]: WPCF7_FormTagsManager->replace_callback(Array)
+#4 /home/u969791460/domains/idaclassacademy.com/public_html/wp-content/plugins/contact-form-7/includes/form-tags-manager.php(356): preg_replace_callback('/(\\[?)\\[(cart_c
+2023-12-27T21:01:05+00:00 El fragmento "Opciones de financiación de cursos" (#12501) se ha desactivado automáticamente debido a un error fatal.
